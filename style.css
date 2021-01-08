@@ -1,0 +1,14 @@
+body{
+    color: red;
+    background-color: lightgrey;
+}
+
+
+
+IMG.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px;
+
+}
